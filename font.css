@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'font';  
-  src: url('https://cdn.rawgit.com/FelipeCadilho/fonts/blob/e7f284da12e55a37e72b59cf625b982596cd7ebe/fonts/font.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/FelipeCadilho/fonts@main/font.woff2') format('woff2');
   font-style: normal;
   font-weight: 400;
   }
